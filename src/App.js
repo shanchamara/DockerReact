@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Madushan app
+          Madushan app nn
         </p>
         <a
           className="App-link"
